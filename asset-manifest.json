@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/junior-links/static/css/main.fb280b44.css",
+    "main.js": "/junior-links/static/js/main.22e21d8d.js",
+    "index.html": "/junior-links/index.html",
+    "main.fb280b44.css.map": "/junior-links/static/css/main.fb280b44.css.map",
+    "main.22e21d8d.js.map": "/junior-links/static/js/main.22e21d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb280b44.css",
+    "static/js/main.22e21d8d.js"
+  ]
+}
