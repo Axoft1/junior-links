@@ -1,0 +1,62 @@
+.parent {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+}
+.parent button {
+  cursor: pointer;
+  border-radius: 0.75rem;
+  background-color: rgb(14 41 74 / var(--tw-bg-opacity));
+  transition-property: color, background-color, border-color,
+    text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 1s;
+  padding: 0.5rem 1.1rem;
+  color: white;
+  border: none;
+  font-size: 1rem;
+    line-height: 1.7rem;
+}
+.parent button:hover {
+  color: white;
+  background-color: black;
+  transition-duration: 0.6s;
+}
+.parent button:active {
+  background-color: black;
+}
+.parent article {
+  z-index: 2;
+  overflow: hidden;
+  border-radius: 1rem;
+  animation: scaleIn 0.35s ease-in-out;
+  top: 2.5rem;
+  right: 0;
+  position: absolute;
+  color: white;
+  font-size: 0.875rem;
+  font-size: 0.875rem;
+  padding: 0 1rem;
+  text-align: left;
+  width: 24rem;
+  box-shadow: 0 3px 6px rgb(0, 0, 0, 0.2);
+  background-color: #0e294a;
+}
+@keyframes scaleIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@media (max-width: 479.98px) {
+	.parent article{
+		width: 20rem;
+	}  	
+}

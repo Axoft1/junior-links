@@ -1,0 +1,29 @@
+.section {
+  overflow: hidden;
+  min-height: 100vh;
+}
+.container {
+  position: relative;
+
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 1110.98px) {
+	.container{
+		max-width: 90%;
+	}  	
+}
+@media (max-width: 767.98px) {
+	.container{
+		max-width: 90%;
+	}  	
+}
+@media (max-width: 479.98px) {
+	.container{
+		max-width: 94%;
+	}  	
+}
+
