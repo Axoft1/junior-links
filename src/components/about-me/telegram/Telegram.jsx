@@ -1,5 +1,5 @@
 import  './Telegram.css'
-
+import icon from "../../../icons/telegram.svg"
 
 const Telegram = ({me}) => {
   return (
@@ -11,7 +11,7 @@ const Telegram = ({me}) => {
         title="Telegram"
       >
         <span>
-          <img src={me.iconTelegram.path} alt="" height={18} width={18} />
+          <img src={icon} alt="" height={18} width={18} />
         </span>
         <span>Telegram</span>
       </a>

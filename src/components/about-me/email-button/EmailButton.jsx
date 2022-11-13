@@ -1,4 +1,5 @@
 import "./EmailButton.css";
+import icon from "../../../icons/email.svg";
 
 const EmailButton = ({me}) => {
   return (
@@ -10,7 +11,7 @@ const EmailButton = ({me}) => {
         title="info@htmllessons.ru"
       >
         <span>
-          <img src={me.iconMail.path} alt="" height={18} width={18} />
+          <img src={icon} alt="" height={18} width={18} />
         </span>
         <span>Email</span>
       </a>

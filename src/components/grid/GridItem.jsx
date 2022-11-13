@@ -2,7 +2,6 @@ import "./Grid.css";
 import parse from "html-react-parser";
 
 const GridItem = ({ item }) => {
-  console.log(item.title);
   return (
     <div className='card'>
       <div className='front'>
@@ -14,11 +13,7 @@ const GridItem = ({ item }) => {
         >
           <div
             className='gradient'
-            // style={{
-            //   backgroundImage: `linear-gradient(to right, ${item.gradient.from} 0%, ${item.gradient.to} 51%, ${item.gradient.from} 100%)`,
-            // }}
-          >
-           
+          > 
             <img src={item.icon.path} alt="" />
           </div>
         </a>
