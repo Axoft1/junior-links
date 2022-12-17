@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/junior-links/static/css/main.fb280b44.css",
-    "main.js": "/junior-links/static/js/main.7e2f2dcb.js",
+    "main.css": "/junior-links/static/css/main.c7ce8242.css",
+    "main.js": "/junior-links/static/js/main.426f291e.js",
     "static/media/MOVIES.png": "/junior-links/static/media/MOVIES.85af0f592e0b2eb9961e.png",
     "static/media/game.jpg": "/junior-links/static/media/game.afba6146f3586234c79d.jpg",
     "static/media/matrix.png": "/junior-links/static/media/matrix.bb5bb04bdf69975c71fe.png",
+    "static/media/chees.png": "/junior-links/static/media/chees.6de673087b973ea2392a.png",
     "static/media/layout.jpg": "/junior-links/static/media/layout.97b041fc75411c585d4d.jpg",
     "static/media/avatar.jpeg": "/junior-links/static/media/avatar.9741d229bf757baffaad.jpeg",
     "static/media/calendar.png": "/junior-links/static/media/calendar.8f882bcd2f174fdad0b6.png",
     "static/media/telegram.svg": "/junior-links/static/media/telegram.7c31e839d1cdd9bbf83256972a4efa43.svg",
     "index.html": "/junior-links/index.html",
     "static/media/email.svg": "/junior-links/static/media/email.77432d609e1cf746e58d13a6f60536fc.svg",
-    "main.fb280b44.css.map": "/junior-links/static/css/main.fb280b44.css.map",
-    "main.7e2f2dcb.js.map": "/junior-links/static/js/main.7e2f2dcb.js.map"
+    "main.c7ce8242.css.map": "/junior-links/static/css/main.c7ce8242.css.map",
+    "main.426f291e.js.map": "/junior-links/static/js/main.426f291e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb280b44.css",
-    "static/js/main.7e2f2dcb.js"
+    "static/css/main.c7ce8242.css",
+    "static/js/main.426f291e.js"
   ]
 }
