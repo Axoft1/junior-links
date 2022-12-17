@@ -2,16 +2,25 @@
   {
     "_id": "link_1",
     "icon": {
-      "path": "/icons/MOVIES.png"
+      "path": "chees.png"
+    },
+    "link": "https://axoft1.github.io/chess_app_online/",
+    "title": "Шахматы онлайн",
+    "description": "Приложение построено на React.js Аутентификация и база данных реализована с помощью Firebase. Для логики игры использовал библиотеку chess.js Перетаскивание элементов осуществлено при помощи React DND "
+  },
+  {
+    "_id": "link_2",
+    "icon": {
+      "path": "MOVIES.png"
     },
     "link": "https://axoft1.github.io/Movie_project/",
     "title": "Проект Movies",
     "description": "Один из первых моих проектов на React, API предоставил кинопоиск"
   },
   {
-    "_id": "link_2",
+    "_id": "link_3",
     "icon": {
-      "path": "/game.jpg"
+      "path": "game.jpg"
     },
     "link": "https://axoft1.github.io/ProjectGame/",
     "title": "Проект Game",
@@ -19,27 +28,27 @@
     "description": "Работа с API. В этом React приложении я использовал технологию SPA + имитация карзины для покупок во вкладке Магазин"
   },
   {
-    "_id": "link_3",
+    "_id": "link_4",
     "icon": {
-      "path": "/icons/layout.jpg"
+      "path": "layout.jpg"
     },
     "link": " https://axoft1.github.io/layoutJon/index.html",
     "title": "Верстка",
     "description": "Адаптивная верстка"
   },
   {
-    "_id": "link_4",
+    "_id": "link_5",
     "icon": {
-      "path": "/icons/calendar.png"
+      "path": "calendar.png"
     },
     "link": "https://axoft1.github.io/CalendarOfWorkingShifts/",
     "title": "Рабочий календарь",
     "description": "Календарь который подсчитывает график скользящих смен, полезен для моей работы"
   },
   {
-    "_id": "link_5",
+    "_id": "link_6",
     "icon": {
-      "path": "/icons/matrix.png"
+      "path": "matrix.png"
     },
     "link": "https://axoft1.github.io/matrix/",
     "title": "Матрица",
